@@ -1,0 +1,19 @@
+﻿  MyController.cpp
+  No target GL version declared, defaulting to GL 3.3
+  For example, use #define TGL_TARGET_GL_4_1 before including tgl.h to specify OpenGL 4.1
+  MyView.cpp
+  No target GL version declared, defaulting to GL 3.3
+  For example, use #define TGL_TARGET_GL_4_1 before including tgl.h to specify OpenGL 4.1
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(42): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(43): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(47): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(231): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(237): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(243): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(443): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+c:\users\aleks\desktop\reprisemysponza\reprisemysponza\source\myview.cpp(443): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ShaderHandler.cpp
+  No target GL version declared, defaulting to GL 3.3
+  For example, use #define TGL_TARGET_GL_4_1 before including tgl.h to specify OpenGL 4.1
+  Generating Code...
+  RepriseMySponza.vcxproj -> C:\Users\Aleks\Desktop\RepriseMySponza\build\bin\x64\Debug\RepriseMySponza.exe
